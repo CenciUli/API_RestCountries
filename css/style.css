@@ -36,7 +36,7 @@ body{
     max-width: 100%;
 }
 .card-texto{
-    background-color: rgba(137, 190, 236, 0.85);
+    background-color: red;
     position: absolute;
     top: 100%;
     left: 0;
